@@ -1,0 +1,5 @@
+# Runs and local environments
+runs/
+.venv/
+__pycache__/
+*.pyc
